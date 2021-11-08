@@ -1,0 +1,3 @@
+Spectrum generated with the TASMICS software.
+Hernandez AM, Seibert JA, Nosratieh A, Boone JM. Generation and analysis of clinically relevant breast imaging x-ray spectra. 
+Med Phys. 2017;44(6):2148–60. http://doi.wiley.com/10.1002/mp.12222

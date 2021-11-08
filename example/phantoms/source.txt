@@ -1,0 +1,2 @@
+Phantoms generated using the BreastPhantom software:
+https://github.com/DIDSR/breastPhantom
