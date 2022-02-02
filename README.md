@@ -7,6 +7,10 @@ This repository contains the tools described in the technical note:
 **"Technical Note: MC-GPU breast dosimetry validations with other Monte Carlo codes and Phase Space File implementation"**
 RT Massera, RM Thomson and A Tomal.
 
+How to cite:
+
+Massera, RT, Thomson, RM, Tomal, A. Technical note: MC-GPU breast dosimetry validations with other Monte Carlo codes and phase space file implementation. Med. Phys. 2022; 49: 244– 253. https://doi.org/10.1002/mp.15342
+
 Each folder contains specific codes and implementations (with further informations of the original sources).
 
 
